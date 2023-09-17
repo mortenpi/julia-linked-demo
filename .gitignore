@@ -1,0 +1,5 @@
+/julia-binary/*
+!/julia-binary/julia-*.sha256
+
+/hello-julia-cc/hello-julia
+/hello-julia-cc/*.o
